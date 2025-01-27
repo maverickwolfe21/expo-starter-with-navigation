@@ -1,5 +1,5 @@
 import * as React from "react";
-import { TouchableOpacity, Text, View } from "react-native";
+import { Text, View } from "react-native";
 import { NavigationContainer, useNavigation } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
